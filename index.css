@@ -14,6 +14,7 @@ div {
     text-align: center;
     line-height: 300px;
     font-size: 40px;
+    background-color: skyblue;
 }
 
 ul li:nth-child(odd) {
