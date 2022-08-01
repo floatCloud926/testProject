@@ -15,3 +15,11 @@ div {
     line-height: 300px;
     font-size: 40px;
 }
+
+ul li:nth-child(odd) {
+    background-color: orange;
+}
+
+ul li:nth-child(even) {
+    background-color: pink;
+}
